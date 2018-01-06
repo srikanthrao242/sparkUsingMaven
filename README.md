@@ -1,1 +1,1 @@
-# Pridict procet README
+# Pridict projecy README
